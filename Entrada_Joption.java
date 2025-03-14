@@ -12,6 +12,8 @@ public class Entrada_Joption {
     int idadeStr = Integer.parseInt(idade);
 
     JOptionPane.showMessageDialog(null, "Olá, " + nome + "! Você tem " + idadeStr + " anos e " + altura + " de altura.");
+    
+        //
     }
     
 }
