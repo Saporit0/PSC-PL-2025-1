@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Main {
     
+    // Atividade utilizando input e class
     public static void main(String[] args){
 
         Notas notas = new Notas();
